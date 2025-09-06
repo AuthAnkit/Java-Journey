@@ -4,8 +4,6 @@ Java Practice Questions & Solutions
 This repository contains a collection of Java programming questions with detailed solutions.
 The goal is to help students, beginners to practice Java concepts and improve their problem-solving skills.
 
-📂 Repository Structure
-
 Every code includes:
   Full question statement
   Java solution (code)
