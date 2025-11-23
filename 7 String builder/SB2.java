@@ -54,7 +54,8 @@ Strings*/
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class SB2
+{
     static String strangeString(int n) {
         Deque<Character> deque = new ArrayDeque<>();
         char c = 'a';
